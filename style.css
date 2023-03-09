@@ -1,0 +1,44 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    font-family: Outfit;
+    font-weight: 400, 700;
+}
+body p {
+    margin: 15px;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+body h2 {
+    color: hsl(218, 44%, 22%);
+    margin: 15px;
+}
+
+.QRCode {
+    padding: 15px;
+    width: 305px;
+    height: auto;
+    background-color: white;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top:50%;
+    left:50%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 15px;
+    transition: transform 250ms ease-in-out;
+}
+
+.QRCode img {
+    border-radius: 15px;
+    width: 100%;
+}
+
+.QRCode:hover {
+    transform: translate(-50%,-50%) scale(1.1);
+}
+
+
+
+
