@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-pH5X5wOa8V)
 
 ## My process
 
@@ -69,8 +69,8 @@ Will probably keep on working on some of these challenges.
 
 ### Useful resources
 
-- [Example resource 1](https://www.joshwcomeau.com/animation/css-transitions/) - This is a great example on how to work with animations and transitions using CSS.
-- [Example resource 2](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius) - Great resource for CSS borders. I'd recommend it to anyone still learning this concept.
+- [joshwcomeau CSS-Transitions](https://www.joshwcomeau.com/animation/css-transitions/) - This is a great example on how to work with animations and transitions using CSS.
+- [MDN Borders](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius) - Great resource for CSS borders. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
